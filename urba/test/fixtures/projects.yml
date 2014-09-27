@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  upvote: 1
+  active: false
+  goal: 1
+  donated: 1
+
+two:
+  name: MyString
+  upvote: 1
+  active: false
+  goal: 1
+  donated: 1

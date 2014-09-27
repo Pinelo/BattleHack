@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  zipcode: MyString
+  project1_id: 1
+  project2_id: 1
+
+two:
+  zipcode: MyString
+  project1_id: 1
+  project2_id: 1
